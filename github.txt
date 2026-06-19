@@ -1,0 +1,9 @@
+atualizando uma pasta do github 
+
+git status -> verificamos se tem algum novo/ foi modificado
+
+git add . ou git add nome_do_arquivo -> adicionar os arquivos mods
+
+git commit -m "mensagem"
+
+git push
